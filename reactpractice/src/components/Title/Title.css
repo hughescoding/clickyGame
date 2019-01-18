@@ -1,0 +1,15 @@
+.jumbotron {
+  background: gold; 
+}
+.title {
+  width: 100%;
+  text-align: center;
+  color: black;
+}
+h3 {
+  outline: 2px;
+  outline-color: blanchedalmond;
+  outline-style: dotted;
+}
+
+
